@@ -2,21 +2,13 @@
 
 
 <div align="center">
-  <a href="https://github.com/wabscale">
-    <img alt="wabscale" src="https://github.com/wabscale/wabscale/raw/master/wabscale-scrambler.jpg" height=512/>
-  </a>
+ <img alt="wabscale" src="https://github.com/wabscale/wabscale/raw/master/wabscale-scrambler.jpg" height=512/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/wabscale">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
-  </a>
-  <a href="https://github.com/wabscale">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
-  </a>
-  <a href="https://github.com/wabscale">
     <img alt="flame" src="https://github.com/wabscale/wabscale/raw/master/flame-1.gif" width="height=128" />
-  </a>
 </div>
 
 
